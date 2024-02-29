@@ -1,6 +1,4 @@
-# AWS-Bedrock
-
-# MedicalChatbot
+# QA Retriever using Amazon-Bedrock
 
 The goal of the project is to create a question answer engine which can ask questions related to the pdfs uploaded.Seperate outputs from Llama2 and Claude can be accessed via Amazon Bedrock.Streamlit is used for frontend application.T
 
