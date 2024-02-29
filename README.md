@@ -1,6 +1,6 @@
 # QA Retriever using Amazon-Bedrock
 
-The goal of the project is to create a question answer engine which can ask questions related to the pdfs uploaded.Seperate outputs from Llama2 and Claude can be accessed via Amazon Bedrock.Streamlit is used for frontend application.T
+The goal of the project is to create a question answer engine which can ask questions related to the pdfs uploaded.Seperate outputs from Llama2 and Claude can be accessed via Amazon Bedrock.Streamlit is used for frontend application.
 
 ## Tech Used
 1. Llama2 model
